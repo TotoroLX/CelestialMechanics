@@ -27,7 +27,7 @@ MAXattempt = 1500;
 attempt = 1;
 
 % variation of Jacobi constant
-dc = 0.1 ;
+dc = 0.005 ;
 
 show = 1;
 if show == 1
